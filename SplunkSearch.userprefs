@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPadRetina.8.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SearchViewController.cs">
+    <Files>
+      <File FileName="SearchViewController.cs" Line="10" Column="10" />
+      <File FileName="EventViewModel.cs" Line="1" Column="1" />
+      <File FileName="EventCell.cs" Line="1" Column="1" />
+      <File FileName="Main.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/glennblock/src/splunk/splunk-sdk-csharp-pcl/src/Splunk.Client/Splunk/Client/Response.cs" line="149" column="13" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
